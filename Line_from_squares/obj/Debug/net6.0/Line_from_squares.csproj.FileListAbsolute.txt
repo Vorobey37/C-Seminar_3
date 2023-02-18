@@ -1,0 +1,15 @@
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_3\Line_from_squares\obj\Debug\net6.0\Line_from_squares.csproj.AssemblyReference.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_3\Line_from_squares\obj\Debug\net6.0\Line_from_squares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_3\Line_from_squares\obj\Debug\net6.0\Line_from_squares.AssemblyInfoInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_3\Line_from_squares\obj\Debug\net6.0\Line_from_squares.AssemblyInfo.cs
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_3\Line_from_squares\obj\Debug\net6.0\Line_from_squares.csproj.CoreCompileInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_3\Line_from_squares\bin\Debug\net6.0\Line_from_squares.exe
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_3\Line_from_squares\bin\Debug\net6.0\Line_from_squares.deps.json
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_3\Line_from_squares\bin\Debug\net6.0\Line_from_squares.runtimeconfig.json
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_3\Line_from_squares\bin\Debug\net6.0\Line_from_squares.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_3\Line_from_squares\bin\Debug\net6.0\Line_from_squares.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_3\Line_from_squares\obj\Debug\net6.0\Line_from_squares.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_3\Line_from_squares\obj\Debug\net6.0\refint\Line_from_squares.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_3\Line_from_squares\obj\Debug\net6.0\Line_from_squares.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_3\Line_from_squares\obj\Debug\net6.0\Line_from_squares.genruntimeconfig.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_3\Line_from_squares\obj\Debug\net6.0\ref\Line_from_squares.dll
