@@ -1,0 +1,15 @@
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_3\Line_Segment_2D\obj\Debug\net6.0\Line_Segment_2D.csproj.AssemblyReference.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_3\Line_Segment_2D\obj\Debug\net6.0\Line_Segment_2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_3\Line_Segment_2D\obj\Debug\net6.0\Line_Segment_2D.AssemblyInfoInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_3\Line_Segment_2D\obj\Debug\net6.0\Line_Segment_2D.AssemblyInfo.cs
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_3\Line_Segment_2D\obj\Debug\net6.0\Line_Segment_2D.csproj.CoreCompileInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_3\Line_Segment_2D\bin\Debug\net6.0\Line_Segment_2D.exe
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_3\Line_Segment_2D\bin\Debug\net6.0\Line_Segment_2D.deps.json
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_3\Line_Segment_2D\bin\Debug\net6.0\Line_Segment_2D.runtimeconfig.json
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_3\Line_Segment_2D\bin\Debug\net6.0\Line_Segment_2D.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_3\Line_Segment_2D\bin\Debug\net6.0\Line_Segment_2D.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_3\Line_Segment_2D\obj\Debug\net6.0\Line_Segment_2D.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_3\Line_Segment_2D\obj\Debug\net6.0\refint\Line_Segment_2D.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_3\Line_Segment_2D\obj\Debug\net6.0\Line_Segment_2D.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_3\Line_Segment_2D\obj\Debug\net6.0\Line_Segment_2D.genruntimeconfig.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_3\Line_Segment_2D\obj\Debug\net6.0\ref\Line_Segment_2D.dll
