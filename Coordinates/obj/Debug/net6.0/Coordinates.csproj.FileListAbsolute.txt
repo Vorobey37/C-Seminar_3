@@ -1,0 +1,15 @@
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_3\Coordinates\bin\Debug\net6.0\Coordinates.exe
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_3\Coordinates\bin\Debug\net6.0\Coordinates.deps.json
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_3\Coordinates\bin\Debug\net6.0\Coordinates.runtimeconfig.json
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_3\Coordinates\bin\Debug\net6.0\Coordinates.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_3\Coordinates\bin\Debug\net6.0\Coordinates.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_3\Coordinates\obj\Debug\net6.0\Coordinates.csproj.AssemblyReference.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_3\Coordinates\obj\Debug\net6.0\Coordinates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_3\Coordinates\obj\Debug\net6.0\Coordinates.AssemblyInfoInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_3\Coordinates\obj\Debug\net6.0\Coordinates.AssemblyInfo.cs
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_3\Coordinates\obj\Debug\net6.0\Coordinates.csproj.CoreCompileInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_3\Coordinates\obj\Debug\net6.0\Coordinates.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_3\Coordinates\obj\Debug\net6.0\refint\Coordinates.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_3\Coordinates\obj\Debug\net6.0\Coordinates.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_3\Coordinates\obj\Debug\net6.0\Coordinates.genruntimeconfig.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_3\Coordinates\obj\Debug\net6.0\ref\Coordinates.dll
